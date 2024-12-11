@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, sou Gabriel Marcelino! 👋
 
-<!--
-**gitgabcode/gitgabcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor em formação, apaixonado por tecnologia e aprendendo cada dia mais sobre **HTML**, **CSS** e **JavaScript**. Atualmente, estou trabalhando em projetos pessoais para aprimorar minhas habilidades.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Projetos recentes:
+- **Cyber Virus History**: Uma página informativa sobre a história dos vírus de computador.
+- **Cordel Nordeste Encantado**: Projeto com inspiração na cultura nordestina, explorando conceitos de **CSS**.
+
+---
+
+**GitHub**: [gitgabcode](https://github.com/gitgabcode)  
+**E-mail**: [gabrieljf184@gmail.com](mailto:gabrieljf184@gmail.com)
+
+---
+
+Obrigado por visitar meu perfil! 😊
