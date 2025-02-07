@@ -1,6 +1,6 @@
 # Olá, sou Gabriel Marcelino! 👋
 
-Sou um desenvolvedor em formação, apaixonado por tecnologia e aprendendo cada dia mais sobre **Análise de dados, ** **HTML**, **CSS** e **JavaScript**. Atualmente, estou trabalhando em projetos pessoais para aprimorar minhas habilidades.
+Sou um desenvolvedor em formação, apaixonado por tecnologia e aprendendo cada dia mais sobre **Análise de dados**, ** **HTML**, **CSS** e **JavaScript**. Atualmente, estou trabalhando em projetos pessoais para aprimorar minhas habilidades.
 
 ---
 
